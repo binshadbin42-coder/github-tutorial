@@ -1,3 +1,3 @@
 a=10*20000
-iu=2*75
-a
+iu=20*80
+print(a)print(iu)
